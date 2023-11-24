@@ -1,0 +1,1 @@
+- 👋 Hi, I’m @lxghtFxxt. I'm bare metal programmer and embedded system developer.
